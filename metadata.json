@@ -1,0 +1,6 @@
+{
+  "name": "ClimaRadar Pro",
+  "description": "Aplicativo meteorológico profissional com mapa de chuva e radar, alertas de tempestades em tempo real, notificações por região, relatórios diários com IA, modo offline, widgets de tela inicial e API de dados históricos.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
